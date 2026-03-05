@@ -8,7 +8,7 @@ Grupo: Canopus
 
 1 - Introdução: 
 
-&nbsp;	O sistema Cash Alert é uma plataforma web que tem o propósito de garantir o controle e planejamento do financeiro para observar a movimentação. Evitando atrasos de contas por meio de alertas e lembretes inteligentes via e-mail. Estes são baseados em datas e em prazos de valores de entrada e saída, seguindo todos os dados de receitas e despesas inseridos pelo usuário. O sistema apresenta os dados de forma analítica, transformando registros brutos em informações úteis para o planejamento de curto e longo prazo. A aplicação é estruturada no padrão Model-View Controller (MVC), garantindo escalabilidade e separação de responsabilidades. Para assegurar a integridade e a confiança do usuário, o sistema adota políticas de governança de dados em conformidade com a LGPD e mecanismos de segurança via OpenID. Com alta disponibilidade e suporte a operações offline, o Cash Alert atua não apenas como um relatório de dados, mas como uma ferramenta de apoio à saúde financeira, reduzindo a ansiedade causada pelos esquecimentos de prazos e pela falta de organização.
+&nbsp;O sistema Cash Alert é uma plataforma web que tem o propósito de garantir o controle e planejamento do financeiro para observar a movimentação. Evitando atrasos de contas por meio de alertas e lembretes inteligentes via e-mail. Estes são baseados em datas e em prazos de valores de entrada e saída, seguindo todos os dados de receitas e despesas inseridos pelo usuário. O sistema apresenta os dados de forma analítica, transformando registros brutos em informações úteis para o planejamento de curto e longo prazo. A aplicação é estruturada no padrão Model-View Controller (MVC), garantindo escalabilidade e separação de responsabilidades. Para assegurar a integridade e a confiança do usuário, o sistema adota políticas de governança de dados em conformidade com a LGPD e mecanismos de segurança via OpenID. Com alta disponibilidade e suporte a operações offline, o Cash Alert atua não apenas como um relatório de dados, mas como uma ferramenta de apoio à saúde financeira, reduzindo a ansiedade causada pelos esquecimentos de prazos e pela falta de organização.
 
 
 
@@ -16,7 +16,7 @@ Grupo: Canopus
 
 	
 
-&nbsp; Pessoas sofrem com a falta de controle de suas finanças por não terem uma visão concreta e completa de suas movimentações, gerando uma série de problemas, como: atrasos em pagamentos, débitos de multas com altos juros, acúmulo de contas ignoradas, gastos excessivos e invisíveis e falta de planejamento adequado, que podem levar o indivíduo à deficiência de retenção de dinheiro, prejuízos com dívidas e estresse/ansiedade frequente com suas finanças. Para resolver essas questões, Cash Alert atua na disponibilidade de inserção de gastos fixos e variáveis, que irão proporcionar uma visão completa das movimentações realizadas pelo usuário. Além disso, possui um sistema de alertas via e-mail que irá notificar o usuário do vencimento de suas contas e lembrá-lo de especificações financeiras a partir de alertas personalizados. O sistema também possibilita o cadastro de receitas e reservas mensais, que integram o dashboard completo para visão das movimentações e a manutenção dos históricos mensais, gerando, assim, um controle completo das finanças do usuário, para que encontre a sensação de prosperidade financeira a partir do seu gerenciamento adequado.
+&nbsp;Pessoas sofrem com a falta de controle de suas finanças por não terem uma visão concreta e completa de suas movimentações, gerando uma série de problemas, como: atrasos em pagamentos, débitos de multas com altos juros, acúmulo de contas ignoradas, gastos excessivos e invisíveis e falta de planejamento adequado, que podem levar o indivíduo à deficiência de retenção de dinheiro, prejuízos com dívidas e estresse/ansiedade frequente com suas finanças. Para resolver essas questões, Cash Alert atua na disponibilidade de inserção de gastos fixos e variáveis, que irão proporcionar uma visão completa das movimentações realizadas pelo usuário. Além disso, possui um sistema de alertas via e-mail que irá notificar o usuário do vencimento de suas contas e lembrá-lo de especificações financeiras a partir de alertas personalizados. O sistema também possibilita o cadastro de receitas e reservas mensais, que integram o dashboard completo para visão das movimentações e a manutenção dos históricos mensais, gerando, assim, um controle completo das finanças do usuário, para que encontre a sensação de prosperidade financeira a partir do seu gerenciamento adequado.
 
 
 
@@ -58,7 +58,7 @@ Criar históricos dos relatórios mensais (Gerar relatórios com base nos regist
 
 5 - Restrições:
 
-Funcionalidade apenas web, precisa de conexão.
+Funcionalidade apenas web, precisa de conexão;
 
 O sistema não consegue descobrir saldos e despesas além do que for registrado pelo usuário.
 
