@@ -5,8 +5,7 @@
 1.1 Nome do sistema: Cash Alert
 
 1.2 Nome da equipe: Canopus
-
-
+ <br> <br>
 **2. Problema e/ou necessidade**
 
 2.1 Qual é o problema e/ou necessidade que o software deve resolver: 
@@ -27,8 +26,7 @@ Esquecimento de prazos de despesas; <br>
 Falta de planejamento para lidar com valores de despesas; <br>
 Organização financeira em planilhas simples ou anotações informais; <br>
 Não há um sistema para lembrar o usuário de seus planejamentos e despesas. <br>
-
-
+ <br> <br>
 **3. Escopo funcional do sistema**
 
 3.1 Principal objetivo do sistema:
@@ -52,8 +50,7 @@ Visualizar registros em formato de calendário; <br>
 Gerar relatório financeiro mensal; <br>
 Realizar buscas por filtros: saldo, categoria e intervalo de tempo; <br>
 Criar históricos dos relatórios mensais; <br>
-
-
+ <br> <br>
 **4. Escopo não funcional**
 
 Arquitetura baseada no padrão MVC (Model-View-Controller); <br>
@@ -63,14 +60,11 @@ Disponibilidade e confiabilidade: backups automáticos para cada movimentação 
 Qualidade: todas as funcionalidades serão testadas, com 100% de cobertura para os fluxos críticos, cerca de 70–80% para funcionalidades secundárias e 60–70% para requisitos de suporte e não funcionais; <br>
 Usabilidade e acessibilidade: acessibilidade adequada e usabilidade onboarding (simplificada e intuitiva); <br>
 Conformidade e governança de dados: classificar dados (pessoal/sensível), política de retenção. <br>
-
-
+ <br> <br>
 **5. Usuários**
 
 Usuário final: pessoa física interessada em organizar e controlar suas finanças pessoais por meio do registro de receitas e despesas.
-
-
-
+ <br> <br>
 **6. Entregáveis**
 
 Documento de Visão do Sistema; <br>
