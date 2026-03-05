@@ -113,5 +113,5 @@ Diagrama de Classe;
 
 Documento de Arquitetura do Sistema;
 
-- Protótipo do Sistema.
+Protótipo do Sistema.
 
